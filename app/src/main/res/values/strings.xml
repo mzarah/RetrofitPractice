@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RetrofitGet</string>
+    <string name="title">Title:</string>
+    <string name="description">Description:</string>
+    <string name="get_smth">Get Post</string>
+    <string name="get_smth2">Get Post By UserId</string>
+    <string name="make_new_post">Make new post</string>
+    <string name="make_post">Make post</string>
+
+
+</resources>
